@@ -8,5 +8,5 @@ Watch tutorial on YouTube.
 
 ## Local Development
 
+Updated from Local 1.
 
-1. Open index.html in your browser.
